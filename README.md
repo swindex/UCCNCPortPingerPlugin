@@ -8,7 +8,7 @@ The author holds no responsibility for any damage, injury or harm caused by use 
 This software may or may not have been tested. Use it at your own risk.
 Software is shipped AS-IS
 
-![](docs/screenshot.png)
+![](Docs/screenshot.png)
 
 ## Installation
 
