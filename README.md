@@ -1,4 +1,4 @@
-# UCCNCMouseWheelMPG
+# UCCNCPortPingerPlugin
 
 This is a plugin for UCCNC Motion Control Software that allows you send signals to port output pins.
 
